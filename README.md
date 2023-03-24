@@ -1,6 +1,8 @@
-# chat-todo-plugin
-
-> ChatGPT Plugin for managing a TODO list
+<p align="center">
+  <img width="180" src="./logo.svg" alt="ChatGPT TODO List">
+  <h1 align="center">chat-todo-plugin</h1>
+  <p align="center">ChatGPT Plugin for managing a TODO list</p>
+</p>
 
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
 - [ChatGPT plugins Doc](https://platform.openai.com/docs/plugins/introduction)
