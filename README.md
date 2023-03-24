@@ -6,6 +6,11 @@
 - [ChatGPT plugins Doc](https://platform.openai.com/docs/plugins/introduction)
 - [OpenAPI Specification](https://swagger.io/specification)
 
+---
+
+- [开发指南：ChatGPT 插件开发（上）](https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg)
+- [开发指南：ChatGPT 插件开发（下）](https://mp.weixin.qq.com/s/8EE3y4hU5Rp0rCCDPBEL2w)
+
 ## Plugin development
 
 ```bash
