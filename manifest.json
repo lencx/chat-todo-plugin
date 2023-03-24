@@ -16,7 +16,7 @@
     "url": "https://<your-replit-app-name>.<your-replit-username>.repl.co/openapi.yaml",
     "is_user_authenticated": false
   },
-  "logo_url": "https://example.com/logo.png",
+  "logo_url": "https://raw.githubusercontent.com/lencx/chat-todo-plugin/main/logo.png",
   "contact_email": "<your-email-address>",
   "legal_info_url": "http://www.example.com/legal"
 }
