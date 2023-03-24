@@ -1,11 +1,16 @@
-# What is pyproject.toml file for?
-# https://stackoverflow.com/questions/62983756/what-is-pyproject-toml-file-for
-
 [tool.poetry]
 name = "chat-todo-plugin"
 version = "0.1.0"
-description = "Plugin for managing a TODO list"
+description = "ChatGPT Plugin for managing a TODO list"
 authors = ["lencx <cxin1314@gmail.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+openai = "^0.27.2"
+quart = "0.18.3"
+quart-cors = "0.6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
