@@ -1,1 +1,1 @@
-# openai-todo-plugin
+# chat-todo-plugin

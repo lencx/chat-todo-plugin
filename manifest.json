@@ -1,0 +1,22 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "TODO Plugin (service http)",
+  "name_for_model": "todo",
+  "description_for_human": "Plugin for managing a TODO list, you can add, remove and view your TODOs.",
+  "description_for_model": "Plugin for managing a TODO list, you can add, remove and view your TODOs.",
+  "auth": {
+    "type": "service_http",
+    "authorization_type": "bearer",
+    "verification_tokens": {
+      "openai": "<your-openai-token>"
+    }
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://<your-replit-app-name>.<your-replit-username>.repl.co/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://example.com/logo.png",
+  "contact_email": "<your-email-address>",
+  "legal_info_url": "http://www.example.com/legal"
+}
