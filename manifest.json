@@ -8,15 +8,15 @@
     "type": "service_http",
     "authorization_type": "bearer",
     "verification_tokens": {
-      "openai": "<your-openai-token>"
+      "openai": "<YOUR_OPENAI_KEY>"
     }
   },
   "api": {
     "type": "openapi",
-    "url": "https://<your-replit-app-name>.<your-replit-username>.repl.co/openapi.yaml",
+    "url": "https://<YOUR_REPO>.<YOUR_OWNER>.repl.co/openapi.yaml",
     "is_user_authenticated": false
   },
-  "logo_url": "https://raw.githubusercontent.com/lencx/chat-todo-plugin/main/logo.png",
-  "contact_email": "<your-email-address>",
+  "logo_url": "https://<YOUR_REPO>.<YOUR_OWNER>.repl.co/logo.png",
+  "contact_email": "<YOUR_EMAIL>",
   "legal_info_url": "http://www.example.com/legal"
 }
