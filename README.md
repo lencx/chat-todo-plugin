@@ -16,8 +16,8 @@
 ```bash
 [plugin-repo]
 |- main.py
-|- manifest.json #
-|- openapi.yaml # OpenAPI specification to document the API
+|- manifest.json
+|- openapi.yaml
 |- logo.png
 `- ... # other
 ```
